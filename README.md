@@ -23,4 +23,5 @@ Custom styling and adjustments by **Abdelwahab Ahmed**.
 
 ## 📸 Preview
 
-![Preview](./screenshot.png)
+<img src="./preview.png" alt="Preview" width="600"/>
+
